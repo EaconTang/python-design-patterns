@@ -1,10 +1,10 @@
 # Python设计模式
 
 - 模版方法
-    - [TemplatePattern.py](TemplatePattern.py)
+    - [TemplatePattern.py](https://github.com/EaconTang/python-design-patterns/blob/master/TempatePattern.py)
 - 代理模式
-    - [ProxyPattern.py](ProxyPattern.py)
+    - [ProxyPattern.py](https://github.com/EaconTang/python-design-patterns/blob/master/ProxyPattern.py)
 - 状态模式
-    - [StatePattern.py](StatePattern.py)
+    - [StatePattern.py](https://github.com/EaconTang/python-design-patterns/blob/master/StatePattern.py)
 - 单例模式
-    - [Singleton.py](Singleton.py)
+    - [Singleton.py](https://github.com/EaconTang/python-design-patterns/blob/master/Singleton.py)
