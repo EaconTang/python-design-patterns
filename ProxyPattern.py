@@ -1,3 +1,7 @@
+# coding=utf8
+"""代理模式"""
+
+
 class Proxy(object):
     def __init__(self, obj):
         self._obj = obj

@@ -1,3 +1,8 @@
+# coding=utf8
+"""
+模版模式
+类似于Java的接口设计
+"""
 from abc import ABCMeta, abstractmethod
 
 
