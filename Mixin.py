@@ -6,7 +6,7 @@ Mixin可以看作多继承的特殊实现，它可以给类混入额外的功能
 """
 
 
-class MixinPythoner(object):
+class PythonerMixin(object):
     def know_python(self):
         print "I code Python."
 
@@ -17,7 +17,7 @@ class MixinPythoner(object):
         print "Hello World in Python."
 
 
-class MixinJavaer(object):
+class JavaerMixin(object):
     def know_java(self):
         print "I code Java."
 
@@ -28,7 +28,7 @@ class MixinJavaer(object):
         print "Hello World in Java."
 
 
-class Programmer(MixinPythoner, MixinJavaer):
+class Programmer(PythonerMixin, JavaerMixin):
     """
     混入两个Mixin类
     如果有Mixin类中有相同的方法，按从左到右的顺序获取优先混入的方法
