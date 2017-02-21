@@ -1,6 +1,6 @@
 # Python设计模式
 
-博客：[《Python设计模式泛谈》](http://blog.tangyingkang.com/post/2015/12/05/python-design-pattern/)
+博客：[《Python设计模式泛谈》](http://blog.tangyingkang.com/post/2016/04/05/python-design-pattern/)
 
 - 创建型
     - 工厂模式
@@ -9,8 +9,8 @@
         - [Singleton.py](https://github.com/EaconTang/python-design-patterns/blob/master/Singleton.py)
     - 池模式
         - [Pool.py](https://github.com/EaconTang/python-design-patterns/blob/master/Pool.py)
-    - 惰性求值
     - Borg模式
+        - [Borg.py](https://github.com/EaconTang/python-design-patterns/blob/master/Borg.py)
     
 
 - 结构型
@@ -31,10 +31,5 @@
     - 模版方法模式
         - [TemplatePattern.py](https://github.com/EaconTang/python-design-patterns/blob/master/TempatePattern.py)
     - 链式模式
-    - 迭代器模式
-    - 观察者模式
-    
-    
-
-
-    
+    - 命令模式
+    - 注册模式
